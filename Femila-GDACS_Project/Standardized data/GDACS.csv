@@ -1,0 +1,101 @@
+from_date,to_date,disaster
+2020-07-11,2021-10-02,Orange Flood in India 
+2020-05-24,2021-05-31,"Red Flood in Bangladesh, India "
+2020-05-24,2021-05-26,Red Tropical Cylone YAAS-21 in India 
+2020-05-11,2021-05-21,Orange Flood in India 
+2020-05-14,2021-05-17,"Red Tropical Cylone TAUKTAE-21 in India, Pakistan "
+2020-04-28,2021-04-28,M6 Orange M 6 Earthquake in India 
+2020-02-07,2021-02-09,Orange Flood in India 
+2020-01-17,2021-01-23,"Orange Tropical Cylone ELOISE-21 in Mozambique, Zimbabwe, Madagascar, Miscellaneous (French) Indian Ocean Islands "
+2020-12-02,2020-12-08,Orange Flood in India 
+2020-12-01,2020-12-04,"Orange Tropical Cylone BUREVI-20 in India, Sri Lanka "
+2020-11-23,2020-11-26,Red Tropical Cylone NIVAR-20 in India 
+2020-06-02,2020-06-03,Red Tropical Cylone NISARGA-20 in India 
+2020-05-16,2020-05-20,"Red Tropical Cylone AMPHAN-20 in India, Bangladesh, Bhutan "
+2020-11-09,2019-11-12,"Red Flood in Bangladesh, India "
+2020-10-29,2019-11-10,"Red Tropical Cylone MATMO-19/BULBUL-19 in Bangladesh, India, Myanmar, Thailand, Cambodia, Laos, Viet Nam "
+2020-12-21,2019-08-26,"Red Drought in India, Sri Lanka "
+2020-08-06,2019-08-13,Orange Flood in India 
+2020-06-25,2019-08-04,Orange Flood in India 
+2020-02-21,2019-07-02,Red Drought in India 
+2020-06-10,2019-06-17,"Orange Tropical Cylone VAYU-19 in , India, Pakistan "
+2020-04-27,2019-05-03,"Red Tropical Cylone FANI-19 in , India, Bangladesh, Bhutan "
+2020-03-09,2019-03-15,"Red Tropical Cylone IDAI-19 in Mozambique, Zimbabwe, Miscellaneous (French) Indian Ocean Islands "
+2020-06-21,2019-02-16,"Orange Drought in China, India, Myanmar, Nepal "
+2020-07-21,2018-12-30,"Orange Drought in India, Pakistan "
+2020-12-15,2018-12-17,Orange Tropical Cylone PHETHAI-18 in India 
+2020-11-10,2018-11-18,Red Tropical Cylone GAJA-18 in India 
+2020-10-09,2018-10-11,Red Tropical Cylone TITLI-18 in India 
+2020-08-10,2018-09-24,Orange Flood in India 
+2020-09-20,2018-09-20,Orange Tropical Cylone FOUR-18 in India 
+2020-03-02,2018-03-07,"Orange Tropical Cylone DUMAZILE-18 in Miscellaneous (French) Indian Ocean Islands, Madagascar "
+2020-01-12,2018-01-20,"Orange Tropical Cylone BERGUITTA-18 in Miscellaneous (French) Indian Ocean Islands, Mauritius "
+2020-11-29,2017-12-05,"Orange Tropical Cylone OCKHI-17 in India, Maldives, Sri Lanka "
+2020-08-02,2017-08-02,M5.2 Orange M 5.2 Earthquake in India 
+2020-05-27,2017-05-30,"Red Tropical Cylone MORA-17 in Bangladesh, India "
+2020-02-06,2017-02-06,M5.6 Orange M 5.6 Earthquake in India 
+2020-12-07,2016-12-12,Red Tropical Cylone VARDAH-16 in India 
+2020-11-29,2016-12-01,"Orange Tropical Cylone NADA-16 in Sri Lanka, India "
+2020-07-15,2016-09-22,ORANGE Flood in India 
+2020-01-03,2016-01-03,M6.7 Red M 6.7 Earthquake in India 
+2020-11-10,2015-12-04,Orange Flood in India 
+2020-07-15,2015-08-19,Orange Flood in India 
+2020-07-29,2015-07-30,"Orange Tropical Cylone TWO-15 in India, Bangladesh, Myanmar "
+2020-06-28,2015-06-28,M5.5 Orange M 5.5 Earthquake in India 
+2020-11-20,2014-11-20,M5.6 Orange M 5.6 Earthquake in Myanmar-India Border Region 
+2020-10-08,2014-10-12,Red Tropical Cylone HUDHUD-14 in India 
+2020-12-31,2014-01-05,Red Tropical Cylone BEJISA-14 in Miscellaneous (French) Indian Ocean Islands 
+2020-11-24,2013-11-28,Orange Tropical Cylone LEHAR-13 in India 
+2020-11-20,2013-11-22,Orange Tropical Cylone HELEN-13 in India 
+2020-11-06,2013-11-06,M5.4 Orange M 5.4 Earthquake in India 
+2020-10-12,2013-10-14,ORANGE Flood in India 
+2020-10-09,2013-10-12,Red Tropical Cylone PHAILIN-13 in India 
+2020-06-23,2013-07-15,RED Flood in India 
+2020-06-12,2013-06-27,RED Flood in India 
+2020-05-11,2013-05-16,"Orange Tropical Cylone MAHASEN-13 in Bangladesh, India "
+2020-02-17,2013-02-17,Red Eruption Barren Island in Andaman Is-Indian O 
+2020-10-30,2012-10-31,"Orange Tropical Cylone NILAM-12 in India, Sri Lanka "
+2020-09-19,2012-10-15,RED Flood in India 
+2020-06-06,2012-07-16,ORANGE Flood in India 
+2020-07-14,2012-07-14,M5.6 Orange M 5.6 Earthquake in India 
+2020-12-27,2011-12-30,Orange Tropical Cylone THANE-11 in India 
+2020-08-15,2011-10-02,ORANGE Flood in India 
+2020-08-10,2011-09-13,ORANGE Flood in India 
+2020-07-23,2011-08-09,ORANGE Flood in India 
+2020-11-15,2010-12-07,ORANGE Flood in India 
+2020-08-06,2010-08-08,ORANGE Flood in India 
+2020-07-05,2010-07-15,ORANGE Flood in India 
+2020-09-25,2009-10-12,ORANGE Flood in India 
+2020-08-15,2009-08-27,RED Flood in India 
+2020-08-18,2009-08-27,ORANGE Flood in India 
+2020-07-01,2009-07-06,ORANGE Flood in India 
+2020-09-22,2008-09-29,RED Flood in India 
+2020-08-30,2008-09-08,RED Flood in India 
+2020-07-20,2008-08-08,ORANGE Flood in India 
+2020-07-05,2008-07-14,ORANGE Flood in India 
+2020-06-11,2008-07-03,ORANGE Flood in India 
+2020-07-12,2007-10-10,RED Flood in India 
+2020-09-22,2007-10-08,ORANGE Flood in India 
+2020-07-03,2007-09-22,RED Flood in India 
+2020-07-01,2007-07-13,ORANGE Flood in India 
+2020-06-22,2007-07-04,ORANGE Flood in India 
+2020-06-18,2007-06-26,ORANGE Flood in India 
+2020-10-26,2006-11-04,ORANGE Flood in India 
+2020-09-18,2006-10-05,ORANGE Flood in India 
+2020-07-28,2006-09-12,ORANGE Flood in India 
+2020-08-01,2006-09-10,RED Flood in India 
+2020-06-24,2006-08-03,ORANGE Flood in India 
+2020-05-31,2006-07-24,ORANGE Flood in India 
+2020-04-06,2006-04-06,M5.5 Orange M 5.5 Earthquake in India 
+2020-02-03,2006-02-03,M5.2 Orange M 5.2 Earthquake in India 
+2020-10-23,2005-12-09,ORANGE Flood in India 
+2020-11-21,2005-11-21,M5 Orange M 5 Earthquake in India 
+2020-10-21,2005-10-28,RED Flood in India 
+2020-10-12,2005-10-12,M5.3 Orange M 5.3 Earthquake in India 
+2020-10-08,2005-10-08,M5.3 Orange M 5.3 Earthquake in India 
+2020-10-08,2005-10-08,M5.5 Orange M 5.5 Earthquake in India 
+2020-10-08,2005-10-08,M5.2 Orange M 5.2 Earthquake in India 
+2020-10-08,2005-10-08,M5.7 Red M 5.7 Earthquake in India 
+2020-10-08,2005-10-08,M5.3 Orange M 5.3 Earthquake in India 
+2020-10-08,2005-10-08,M5.3 Orange M 5.3 Earthquake in India 
+2020-10-08,2005-10-08,M5.2 Orange M 5.2 Earthquake in India 
